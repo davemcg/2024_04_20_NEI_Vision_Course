@@ -24,5 +24,6 @@
 
 # Relevant Links
   - https://gitforwindows.org
+  - https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip
   - https://github.com/davemcg/2024_04_20_NEI_Vision_Course/raw/main/guides/data/eiad_gene_expression.csv.gz
   - https://github.com/davemcg/2024_04_20_NEI_Vision_Course/raw/main/guides/data/eyeIntegration23_meta_2023_09_01.built.csv.gz
