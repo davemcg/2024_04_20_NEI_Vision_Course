@@ -2,12 +2,27 @@
 
 # Day 1
 ## Morning
-[https://datacarpentry.org/organization-genomics/01-tidiness.html](https://datacarpentry.org/organization-genomics/aio.html)https://datacarpentry.org/organization-genomics/aio.html
+  The bash command line
+  Rstudio introduction
+  Seeking Help
 
-Finding data deposits from published data
-- https://pubmed.ncbi.nlm.nih.gov/29233477/
+## Afternoon
+  Data Structures in R
 
+# Day 2
+## Morning
+  Data Subsetting
+  dplyr 
 
-https://plae.nei.nih.gov/plae_custom_plotting.html
-https://eyeintegration.nei.nih.gov/query_custom_gene_list.freeze01.html
-https://github.com/davemcg/Let_us_plot
+## Afternoon
+  ggplot2
+
+# If Time Permits
+  Data import options
+  Handling of large datasets
+  Moar ggplot2
+
+# Relevant Links
+  - https://gitforwindows.org
+  - https://github.com/davemcg/2024_04_20_NEI_Vision_Course/raw/main/guides/data/eiad_gene_expression.csv.gz
+  - https://github.com/davemcg/2024_04_20_NEI_Vision_Course/raw/main/guides/data/eyeIntegration23_meta_2023_09_01.built.csv.gz
