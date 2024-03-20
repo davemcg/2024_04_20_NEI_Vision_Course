@@ -2,25 +2,25 @@
 
 # Day 1
 ## Morning
-  The bash command line
-  Rstudio introduction
-  Seeking Help
+  - The bash command line
+  - Rstudio introduction
+  - Seeking Help
 
 ## Afternoon
-  Data Structures in R
+  - Data Structures in R
 
 # Day 2
 ## Morning
-  Data Subsetting
-  dplyr 
+  - Data Subsetting
+  - dplyr 
 
 ## Afternoon
-  ggplot2
+  - ggplot2
 
 # If Time Permits
-  Data import options
-  Handling of large datasets
-  Moar ggplot2
+  - Data import options
+  - Handling of large datasets
+  - Moar ggplot2
 
 # Relevant Links
   - https://gitforwindows.org
