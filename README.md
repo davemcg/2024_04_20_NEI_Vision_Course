@@ -21,7 +21,8 @@
   - Data import options
   - Handling of large datasets
   - Moar ggplot2
-
+  - DESeq2 (differential expression analysis)
+    
 # Relevant Links
   - https://gitforwindows.org
   - https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip
